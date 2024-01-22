@@ -5,7 +5,7 @@ Ievade -
 4. Šodienas datums (1-31)
 5. Dzimšanas gadu
 6. Dzimšanas mēnesi (1-12)
-7. Dzimšanas datums (1-31)
+7. Dzimšanas datumu (1-31)
 
 Izvade - 
 Diena (1-7), kurā dzimis
