@@ -10,10 +10,10 @@ Ievade -
 Izvade - 
 Diena (1-7), kurā dzimis
 
-Programmais jāprēķina:
+Programmai jāprēķina:
 1. Cik dienas pagāja
     1.1. Mēnešiem ir dažads dienu skaits
     1.2. Eksistē garie gadi
 2. Atlikums, dalot ar 7
 3. No šodienas dienas atņem to atlikumu
-    3.1 Nevar būt negatīva diena
+    3.1. Nevar būt negatīva diena
